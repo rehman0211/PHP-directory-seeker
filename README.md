@@ -4,3 +4,5 @@ Basic Web Page while learning basics of PHP
 ## See the contents in the given directory
 
 Enter the path of the directory and see the contents of it, with file Type and Logo.
+
+See the WithInput.png and WithoutOutput.png for the review...
